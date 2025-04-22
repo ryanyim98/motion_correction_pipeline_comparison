@@ -1,0 +1,50 @@
+# R created files
+*.Rproj
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.history
+*.RData*
+*.1D
+*.nii
+*.nii.gz
+
+# Image/output files unless otherwise specified
+*.csv
+*.pdf
+*.png
+*.docx
+*.doc
+*.jpg
+*.gif
+*.html
+*.txt
+*.mat
+*.asc
+*.edf
+*.tiff
+
+# Misc Knit Files
+*.aux
+*.gz
+*.log
+*.rdx
+*.rdb
+*.knit.md
+*.cache
+*.results
+
+# Other
+*.httr-oauth
+*.DS_Store
+*.zip
+# MTurk credentials and data
+auth.json
+my-own-auth.json
+mturk/
+mturk-and-gmail.txt
+
+# Specific file keep
+!README.md
+.Rproj.user
+*.DS_Store
